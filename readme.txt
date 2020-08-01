@@ -1,5 +1,6 @@
 === Subscribe to YouTube ===
-Contributors: Hamid Azad
+Contributors: Hamid Hosen Azad
+url: hamidazad.com
 Tags: youtube, subscriber,count,notification
 Requires at least: 4.0
 Tested up to: 5.4
@@ -26,5 +27,3 @@ directory
 == Frequently Asked Questions ==
 There are currently no FAQs at this time.
 
-== Screenshots ==
-1. Admin page where you setup the plugin
